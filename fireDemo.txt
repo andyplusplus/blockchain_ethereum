@@ -1,0 +1,20 @@
+1、大屏
+http://192.168.41.45:8087/intelligent-fire-service/#
+
+2、独立烟感
+http://61.164.57.62:21980/Admin/index.aspx
+dianxin dianxin
+
+3、远程监测 网页
+http://122.229.31.145:7777/
+hzsly 123456
+
+4、远程监测 客户端
+
+D:\报警受理客户端-电信云平台\报警受理客户端-电信云平台\BJSLKHD.exe
+hzsly 123456
+
+5、巡查
+
+http://122.229.31.145:7777/getNfc.do
+黑1 白2 绿3 紫4
